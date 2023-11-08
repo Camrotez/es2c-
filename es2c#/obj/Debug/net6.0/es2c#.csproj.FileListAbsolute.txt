@@ -1,0 +1,14 @@
+C:\Users\Luciano\Desktop\c#\es2c#\es2c#\bin\Debug\net6.0\es2c#.exe
+C:\Users\Luciano\Desktop\c#\es2c#\es2c#\bin\Debug\net6.0\es2c#.deps.json
+C:\Users\Luciano\Desktop\c#\es2c#\es2c#\bin\Debug\net6.0\es2c#.runtimeconfig.json
+C:\Users\Luciano\Desktop\c#\es2c#\es2c#\bin\Debug\net6.0\es2c#.dll
+C:\Users\Luciano\Desktop\c#\es2c#\es2c#\bin\Debug\net6.0\es2c#.pdb
+C:\Users\Luciano\Desktop\c#\es2c#\es2c#\obj\Debug\net6.0\es2c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luciano\Desktop\c#\es2c#\es2c#\obj\Debug\net6.0\es2c#.AssemblyInfoInputs.cache
+C:\Users\Luciano\Desktop\c#\es2c#\es2c#\obj\Debug\net6.0\es2c#.AssemblyInfo.cs
+C:\Users\Luciano\Desktop\c#\es2c#\es2c#\obj\Debug\net6.0\es2c#.csproj.CoreCompileInputs.cache
+C:\Users\Luciano\Desktop\c#\es2c#\es2c#\obj\Debug\net6.0\es2c#.dll
+C:\Users\Luciano\Desktop\c#\es2c#\es2c#\obj\Debug\net6.0\refint\es2c#.dll
+C:\Users\Luciano\Desktop\c#\es2c#\es2c#\obj\Debug\net6.0\es2c#.pdb
+C:\Users\Luciano\Desktop\c#\es2c#\es2c#\obj\Debug\net6.0\es2c#.genruntimeconfig.cache
+C:\Users\Luciano\Desktop\c#\es2c#\es2c#\obj\Debug\net6.0\ref\es2c#.dll
